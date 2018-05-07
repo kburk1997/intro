@@ -6,8 +6,8 @@ Our Bylaws are an extension of our [Code of Conduct](code_of_conduct.md). The By
 Attendance codes are given during all RCOS small group, large group, and bonus sessions. When the attendance code is delivered, go to http://rcos.io, click "Attend", and enter the attendance code so you can be marked as present for the current session.
 
 As much as we value sharing and openness, we also value integrity. Thus, we ask that you do not distribute attendance codes to people who are not currently attending the session. If you are caught distributing attendance codes to people who are absent, **both your attendance code as well as the attendance code(s) you distributed to others will be nullified**.
-<!-- link TBD once Alex finishes up excused absence doucmentation-->
-If you know in advance you will not be able to make an RCOS meeting, or unforeseen circumstances arise that make you unable to attend, please review our [Excused Absence Policy]() instead of attempting to enter an attendance code.
+
+If you know in advance you will not be able to make an RCOS meeting, or unforeseen circumstances arise that make you unable to attend, please review our [Excused Absence Policy](https://rcos.github.io/rcos-handbook/#/grading/attendance?id=excused-absence-policy) instead of attempting to enter an attendance code.
 
 ## Noise
 An important part of RCOS is being able to hear from both fellow RCOS members and guest speakers. We ask that you please refrain from talking or making excessive noise while a speaker is talking as it can be disruptive to the speaker and to your peers.
